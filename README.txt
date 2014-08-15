@@ -1,0 +1,1 @@
+For the find program input is case sensative.
